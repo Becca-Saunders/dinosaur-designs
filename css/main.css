@@ -15,7 +15,7 @@ h1, h2 {
   text-transform: uppercase;
 }
 figcaption {
-  font-size: 8rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
@@ -27,10 +27,13 @@ nav ol{
   list-style-type: none;
 }
 nav a {
-  color: #793284
+  color: #793284;
   text-decoration: none;
 }
 nav a:hover {
   color: #b42885;
   text-decoration: underline;
+}
+.intro {
+  font-size: 1rem;
 }
